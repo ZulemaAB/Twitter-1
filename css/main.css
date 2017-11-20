@@ -1,0 +1,96 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+/*------------Estilos de nuestro body---------------------*/
+body {
+  background-image: url('../assets/img/totoro.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+  width: 100%;
+}
+/*-----------Estilos de nuestro header-------------------*/
+header {
+  width: 100%;
+  height: 70px;
+  display: inline-block;
+  text-align: center;
+  background: #6AD2F3;
+  font-family: 'Rokkitt', serif;
+  color: #fff;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+/*------------Estilos de box1---------------------*/
+.box1 {
+  width: 400px;
+  height: 200px;
+  background: #fff;
+  border: 1px solid #000;
+  border-radius: 20px;
+  display: inline-block;
+  line-height: 2.5;
+  margin-left:  100px;
+  margin-top: 10px;
+  padding-left: 10px;
+  font-family: 'Rokkitt', serif;
+}
+
+.box1 h3 {
+  font-family: 'Rokkitt', serif;
+  color: #0000ff;
+}
+/*---Estilos de nuestro container de textarea-button-span:contador----*/
+.container {
+  width: 425px;
+  height: 200px;
+  display: inline-block;
+  background-color: #fff;
+  margin-top: 15px;
+  font-family: 'Rokkitt', serif;
+  position: absolute;
+  margin-left: 30px;
+  border-radius: 20px;
+}
+textarea {
+  width: 400px;
+  margin: 7px;
+  border-radius: 20px;
+  padding: 5px;
+  font-family: 'Rokkitt', serif;
+  outline: none;
+}
+button {
+font-family: 'Rokkitt', serif;
+font-size: 15px;
+padding: 10px;
+font-weight: bold;
+outline: none;
+border-color: pink;
+border-radius: 20px;
+margin-left: 20px;
+margin-top: 4px;
+
+}
+
+span {
+  font-size: 20px;
+  margin-left: 250px;
+  margin-top: 4px;
+  display: inline-block;
+}
+li {
+  border-radius: 20px;
+  background-color: #fff;
+  margin: 10px;
+  width: 400px;
+  height: 40px;
+  margin-left: 40%;
+  list-style: none;
+  padding: 10px;
+}
+#containertweets{
+  margin: 30px;
+}

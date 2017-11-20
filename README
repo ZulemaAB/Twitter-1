@@ -1,0 +1,25 @@
+## Twitter :
+En este reto, vamos a replicar el newsfeed de Twitter.
+
+**Versión 0.0.1**
+
+    _ Diseñar un formulario que permita ingresar un texto y un botón para "twittear".
+    _ Agregar un evento de click al botón o de submit al formulario.
+    _ En el evento, obtener el texto.
+    _ Agregar el texto al HTML.
+
+**Versión 0.0.2**
+
+    _ No ingresar texto vacío (deshabilitar el botón de "twittear").
+    _ Contar la cantidad de caracteres de forma regresiva.
+
+**Versión 0.0.3**
+
+      _Si pasa los 140 caracteres, deshabilitar el botón.
+      _Si pasa los 120 caracteres, mostrar el contador con OTRO color.
+      _Si pasa los 130 caracteres, mostrar el contador con OTRO color.
+      _Si pasa los 140 caracteres, mostrar el contador en negativo.
+
+**Versión 0.0.4**
+
+  _ Al presionar enter(/n) que crezca el textarea de acuerdo al tamaño del texto.
